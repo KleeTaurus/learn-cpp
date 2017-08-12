@@ -1,6 +1,7 @@
 /* Return pointer from functions in C++ */
 #include <iostream>
 #include <ctime>
+#include <cstdlib>
 
 using namespace std;
 
